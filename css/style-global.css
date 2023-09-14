@@ -438,8 +438,8 @@ p {
 }
 .banner .introduce .note .note-1 {
     border-right: 1px solid var(--no2-);
-    margin-right: 30px;
-    padding-right: 30px;
+    margin-right: 10px;
+    padding-right: 10px;
 }
 .banner .introduce .note .note-1:last-child {
     border: none;
@@ -807,8 +807,8 @@ p {
     top: 10px;
 }
 .port .thumb-port .content p {
-    font-size: 23px;
-    color: var(--black-);
+    font-size: 24px;
+    color: #1babe2;
     font-weight: 400;
 }
 .port .thumb-port:hover .content p {
@@ -817,7 +817,7 @@ p {
 .port .thumb-port .funtion {
     display: flex;
     align-items: center;
-    gap: 30px;
+    gap: 10px;
     position: absolute;
     bottom: -80px;
     left: 30px;
@@ -830,8 +830,8 @@ p {
 .port .thumb-port .funtion p {
     background-color: var(--white-);
     font-weight: 100;
-    padding: 5px 20px;
-    border-radius: 100px;
+    padding: 5px 15px;
+    border-radius: 20px;
     transition: 0.3s;
 }
 .port .thumb-port:hover .funtion p {
