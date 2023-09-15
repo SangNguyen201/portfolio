@@ -819,13 +819,13 @@ p {
     align-items: center;
     gap: 10px;
     position: absolute;
-    bottom: -80px;
+    bottom: -50px;
     left: 30px;
     color: var(--no2-);
     transition: 0.5s;
 }
 .port .thumb-port:hover .funtion {
-    bottom: 30px;
+    bottom: 10px;
 }
 .port .thumb-port .funtion p {
     background-color: var(--white-);
@@ -1097,7 +1097,7 @@ p {
         right: 262px;
     }
     .banner .introduce .round-text img {
-        width: 80px;
+        width: 50px;
     }
     .skill .main-skill ul:first-child {
         margin: 0;
