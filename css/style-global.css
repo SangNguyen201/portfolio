@@ -817,10 +817,10 @@ p {
 .port .thumb-port .funtion {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 5px;
     position: absolute;
     bottom: -50px;
-    left: 30px;
+    left: 10px;
     color: var(--no2-);
     transition: 0.5s;
 }
@@ -830,7 +830,7 @@ p {
 .port .thumb-port .funtion p {
     background-color: var(--white-);
     font-weight: 100;
-    padding: 5px 15px;
+    padding: 5px 10px;
     border-radius: 20px;
     transition: 0.3s;
 }
@@ -1181,7 +1181,7 @@ p {
         width: 100%;
     }
     .port .thumb-port .funtion {
-        bottom: 30px;
+        bottom: 10px;
     }
     .port .thumb-port .content {
         top: 10px;
