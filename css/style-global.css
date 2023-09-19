@@ -820,7 +820,7 @@ p {
     gap: 5px;
     position: absolute;
     bottom: -50px;
-    left: 10px;
+    left: 1px;
     color: var(--no2-);
     transition: 0.5s;
 }
