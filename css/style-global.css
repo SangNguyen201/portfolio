@@ -835,8 +835,8 @@ p {
     transition: 0.3s;
 }
 .port .thumb-port:hover .funtion p {
-    background-color: var(--no2-);
-    color: var(--white-);
+    font-weight: 700;
+    color: var(--no2-);
 }
 
 /* popup-port---> */
